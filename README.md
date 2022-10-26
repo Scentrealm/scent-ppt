@@ -14,13 +14,14 @@
 
 1. 将 source 下 `scentppt.zip` 拷贝到 `c:\data` 目录，解压；
 2. 运行目录下的 `scentrealm.exe` 程序；
-3. 点击 `Start` 按钮，显示 `Scent Realm Device connection success.`，表示运行成功；
+3. 点击 `Start` 按钮，显示 `Scent Realm Device started successfully...`，表示运行成功；
 4. 点击唤醒 `Wake up`；
-5. 在 PPT 中插入指令，指定播放某一路气味 `C:\data\ScentRealm\ScentRealmClient\ScentRealmClient.exe ${channelID} ${time}；`
+5. 在 PPT 中插入指令，指定播放某一路气味 `C:\data\ScentRealm\ScentRealmClient\ScentRealmClient.exe ${channelID} ${time}`
 
 <aside>
 💡 channelID 气味通道号   time 播放时长（单位 秒）
-
+eg: C:\data\ScentRealm\ScentRealmClient\ScentRealmClient.exe 1 5
+表示通道1气味，播放5秒
 </aside>
 
 ![Scent](img/scent.png)
