@@ -8,3 +8,4 @@ E:\MyProjects\GameProject\3Coding\HardwareService\SKII.Broadcast\obj\Release\SKI
 E:\MyProjects\GameProject\3Coding\HardwareService\SKII.Broadcast\obj\Release\SKII.Broadcast.csproj.CopyComplete
 E:\MyProjects\GameProject\3Coding\HardwareService\SKII.Broadcast\obj\Release\SKII.Broadcast.exe
 E:\MyProjects\GameProject\3Coding\HardwareService\SKII.Broadcast\obj\Release\SKII.Broadcast.pdb
+E:\MyProjects\GameProject\3Coding\HardwareService\SKII.Broadcast\obj\Release\SKII.Broadcast.csproj.AssemblyReference.cache

@@ -12,19 +12,21 @@
 
 ## 使用说明
 
-1. 将 source 下 `scentppt.zip` 拷贝到 `c:\data` 目录，解压；
-2. 运行目录下的 `scentrealm.exe` 程序；
-3. 点击 `Start` 按钮，显示 `Scent Realm Device started successfully...`，表示运行成功；
+1. 将 source 下 `scentpptv1.0.zip` 拷贝到 `c:\data` 目录，解压；
+2. 运行目录下的 `SKII.Broadcast.exe` 程序；
+3. 点击 `Start` 按钮，显示 `ScentRealm Device started successfully...`，表示运行成功；
 4. 点击唤醒 `Wake up`；
-5. 在 PPT 中插入指令，指定播放某一路气味 `C:\data\ScentRealm\ScentRealmClient\ScentRealmClient.exe ${channelID} ${time}`
+5. 在 PPT 中插入指令，指定播放某一路气味 `C:\data\ScentRealm\SRClient.exe ${channelID} ${time}`
 
 <aside>
 💡 channelID 气味通道号   time 播放时长（单位 秒）
-eg: C:\data\ScentRealm\ScentRealmClient\ScentRealmClient.exe 1 5
+eg: C:\data\ScentRealm\SRClient.exe 1 5
 表示通道1气味，播放5秒
 </aside>
 
-![Scent](img/scent.png)
+![Scent](img/scentppt.png)
+如果需要修改服务端口号时，打开配置文件，在配置文件夹下的ServerPort修改成对应的端口号即可。
+![Scent](img/config1.png)
 
 ## 注意事项
 

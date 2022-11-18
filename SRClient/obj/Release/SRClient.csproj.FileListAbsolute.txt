@@ -5,3 +5,4 @@ E:\MyProjects\GameProject\3Coding\HardwareService\SRClient\obj\Release\SRClient.
 E:\MyProjects\GameProject\3Coding\HardwareService\SRClient\obj\Release\SRClient.csproj.CopyComplete
 E:\MyProjects\GameProject\3Coding\HardwareService\SRClient\obj\Release\SRClient.exe
 E:\MyProjects\GameProject\3Coding\HardwareService\SRClient\obj\Release\SRClient.pdb
+E:\MyProjects\GameProject\3Coding\HardwareService\SRClient\obj\Release\SRClient.csproj.AssemblyReference.cache
