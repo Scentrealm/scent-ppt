@@ -28,15 +28,9 @@ eg: C:\data\ScentRealm\SRClient.exe 1 5
 <aside>
 如果需要修改服务端口号时，打开配置文件，在配置文件夹下的ServerPort修改成对应的端口号即可，AutoStart表示打开程序后自动启动服务。
 
-[Setting]
-;服务IP，服务地址
-IPAddr=127.0.0.1
-ServerPort=10086
-AutoStart=1
-
 </aside>
 ![Scent](img/config1.png)
-
+![Scent](img/config0.png)
 ## 注意事项
 
 1. 需要信号发射器；
